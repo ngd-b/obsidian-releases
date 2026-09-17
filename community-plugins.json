@@ -54101,5 +54101,12 @@
     "author": "Jacopo Gori",
     "description": "Highlight selected lines in fenced code blocks without modifying the code itself. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "tc-xonor/select-code-lines-highlighter"
+  },
+  {
+    "id": "anythingllm-sync",
+    "name": "AnythingLLM Sync",
+    "author": "HBoot",
+    "description": "Automatically sync Markdown notes from a configurable Obsidian folder to an AnythingLLM workspace.",
+    "repo": "ngd-b/obsidian-anythingllm-sync"
   }
 ]
